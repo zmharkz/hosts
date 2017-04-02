@@ -1,0 +1,118 @@
+please help me detect the malware to be removed
+
+Logfile of Trend Micro HijackThis v2.0.5
+Scan saved at 11:52:30 PM, on 3/26/2017
+Platform: Windows 7 SP1 (WinNT 6.00.3505)
+MSIE: Internet Explorer v11.0 (11.00.9600.17840)
+
+
+Boot mode: Normal
+
+Running processes:
+C:\Program Files (x86)\Garena Plus\ggdllhost.exe
+C:\Program Files (x86)\Garena Plus\ggdllhost.exe
+C:\Program Files (x86)\ATI Technologies\HydraVision\HydraDM.exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\.exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\DRAGON NEST.exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\EN BANC FILES.exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\maginventory tayoo (^_^).exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\New folder (2).exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\New folder (3).exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\New folder.exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\System Volume Information.exe
+C:\Users\IGUIRON\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Windows.exe
+C:\ProgramData\DatacardService\DCSHelper.exe
+C:\Windows\SysWOW64\msiexec.exe
+C:\Windows\SysWOW64\msiexec.exe
+C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+D:\Dragon Nest\DragonNest.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Users\IGUIRON\Downloads\HijackThis.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+C:\Windows\SysWOW64\DllHost.exe
+
+R1 - HKCU\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = http://go.microsoft.com/fwlink/?LinkId=54896
+R1 - HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = http://go.microsoft.com/fwlink/?LinkId=54896
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = http://go.microsoft.com/fwlink/p/?LinkId=255141
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,SearchAssistant = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Search,CustomizeSearch = 
+R0 - HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = C:\Windows\SysWOW64\blank.htm
+R0 - HKCU\Software\Microsoft\Internet Explorer\Toolbar,LinksFolderName = 
+F2 - REG:system.ini: UserInit=userinit.exe
+O2 - BHO: (no name) - {602ADB0E-4AFF-4217-8AA1-95DAC4DFA408} - (no file)
+O2 - BHO: Norton Vulnerability Protection - {6D53EC84-6AAE-4787-AEEE-F4628F01010C} - C:\Program Files (x86)\Norton Internet Security\Engine\21.7.0.11\IPS\IPSBHO.DLL (file missing)
+O2 - BHO: Groove GFS Browser Helper - {72853161-30C5-4D22-B7F9-0BBC1D38A37E} - C:\PROGRA~2\MICROS~1\Office12\GR469A~1.DLL
+O2 - BHO: Google Toolbar Helper - {AA58ED58-01DD-4d91-8333-CF10577473F7} - C:\Program Files (x86)\Google\Google Toolbar\GoogleToolbar_32.dll
+O2 - BHO: Bing Bar Helper - {d2ce3e00-f94a-4740-988e-03dc2f38c34f} - C:\Program Files (x86)\Microsoft\BingBar\7.1.362.0\BingExt.dll
+O3 - Toolbar: Bing Bar - {8dcb7100-df86-4384-8842-8fa844297b3f} - "C:\Program Files (x86)\Microsoft\BingBar\7.1.362.0\BingExt.dll" (file missing)
+O3 - Toolbar: Google Toolbar - {2318C2B1-4965-11d4-9B18-009027A5CD4F} - C:\Program Files (x86)\Google\Google Toolbar\GoogleToolbar_32.dll
+O4 - HKCU\..\Run: [HydraVisionDesktopManager] "C:\Program Files (x86)\ATI Technologies\HydraVision\HydraDM.exe"
+O4 - HKCU\..\Run: [{0FCF6C62-34CF-426E-BDF5-80EC26591931}] C:\Windows\system32\WindowsPowerShell\v1.0\powershell.exe -noprofile -windowstyle hidden -executionpolicy bypass iex ([Text.Encoding]::ASCII.GetString([Convert]::FromBase64String((gp 'HKCU:\Software\Classes\MlnrMn').UYKBPEYFAN)));
+O4 - HKLM\..\Policies\Explorer\Run: [202809812] C:\ProgramData\msmtorzbs.exe
+O4 - HKLM\..\Policies\Explorer\Run: [957284993] C:\ProgramData\msfhno.exe
+O4 - HKUS\S-1-5-19\..\Run: [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-19\..\RunOnce: [mctadmin] C:\Windows\System32\mctadmin.exe (User 'LOCAL SERVICE')
+O4 - HKUS\S-1-5-20\..\Run: [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun (User 'NETWORK SERVICE')
+O4 - HKUS\S-1-5-20\..\RunOnce: [mctadmin] C:\Windows\System32\mctadmin.exe (User 'NETWORK SERVICE')
+O4 - Startup: .exe
+O4 - Startup: DRAGON NEST.exe
+O4 - Startup: EN BANC FILES.exe
+O4 - Startup: maginventory tayoo (^_^).exe
+O4 - Startup: New folder (2).exe
+O4 - Startup: New folder (3).exe
+O4 - Startup: New folder.exe
+O4 - Startup: System Volume Information.exe
+O4 - Startup: Windows.exe
+O8 - Extra context menu item: E&xport to Microsoft Excel - res://C:\PROGRA~2\MICROS~1\Office12\EXCEL.EXE/3000
+O9 - Extra button: Send to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\PROGRA~2\MICROS~1\Office12\ONBttnIE.dll
+O9 - Extra 'Tools' menuitem: S&end to OneNote - {2670000A-7350-4f3c-8081-5663EE0C6C49} - C:\PROGRA~2\MICROS~1\Office12\ONBttnIE.dll
+O9 - Extra button: Research - {92780B25-18CC-41C8-B9BE-3C9C571A8263} - C:\PROGRA~2\MICROS~1\Office12\REFIEBAR.DLL
+O11 - Options group: [ACCELERATED_GRAPHICS] Accelerated graphics
+O18 - Protocol: grooveLocalGWS - {88FED34C-F0CA-4636-A375-3CB6248B04CD} - C:\PROGRA~2\MICROS~1\Office12\GRA32A~1.DLL
+O23 - Service: @%SystemRoot%\system32\Alg.exe,-112 (ALG) - Unknown owner - C:\Windows\System32\alg.exe (file missing)
+O23 - Service: AMD External Events Utility - Unknown owner - C:\Windows\system32\atiesrxx.exe (file missing)
+O23 - Service: activeMARK Instant Service (AMInstantService) - GameHouse - C:\Program Files (x86)\GameHouse Games\aminstantservice.exe
+O23 - Service: ASUS Com Service (asComSvc) - Unknown owner - C:\Program Files (x86)\ASUS\AXSP\1.02.00\atkexComSvc.exe
+O23 - Service: ASGT - Unknown owner - C:\Windows\SysWOW64\ASGT.exe
+O23 - Service: @%SystemRoot%\system32\efssvc.dll,-100 (EFS) - Unknown owner - C:\Windows\System32\lsass.exe (file missing)
+O23 - Service: @%systemroot%\system32\fxsresm.dll,-118 (Fax) - Unknown owner - C:\Windows\system32\fxssvc.exe (file missing)
+O23 - Service: Google Update Service (gupdate) (gupdate) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+O23 - Service: Google Update Service (gupdatem) (gupdatem) - Google Inc. - C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+O23 - Service: Google Software Updater (gusvc) - Google - C:\Program Files (x86)\Google\Common\Google Updater\GoogleUpdaterService.exe
+O23 - Service: HWDeviceService64.exe - Unknown owner - C:\ProgramData\DatacardService\HWDeviceService64.exe
+O23 - Service: Intel(R) Rapid Storage Technology (IAStorDataMgrSvc) - Intel Corporation - C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe
+O23 - Service: @%SystemRoot%\system32\ieetwcollectorres.dll,-1000 (IEEtwCollectorService) - Unknown owner - C:\Windows\system32\IEEtwCollector.exe (file missing)
+O23 - Service: Intel(R) Capability Licensing Service TCP IP Interface - Intel(R) Corporation - C:\Program Files\Intel\iCLS Client\SocketHeciServer.exe
+O23 - Service: Intel(R) Dynamic Application Loader Host Interface Service (jhi_service) - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe
+O23 - Service: @keyiso.dll,-100 (KeyIso) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: Intel(R) Management and Security Application Local Management Service (LMS) - Intel Corporation - C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe
+O23 - Service: @comres.dll,-2797 (MSDTC) - Unknown owner - C:\Windows\System32\msdtc.exe (file missing)
+O23 - Service: @%SystemRoot%\System32\netlogon.dll,-102 (Netlogon) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: @%systemroot%\system32\psbase.dll,-300 (ProtectedStorage) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: @%systemroot%\system32\Locator.exe,-2 (RpcLocator) - Unknown owner - C:\Windows\system32\locator.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\samsrv.dll,-1 (SamSs) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\snmptrap.exe,-3 (SNMPTRAP) - Unknown owner - C:\Windows\System32\snmptrap.exe (file missing)
+O23 - Service: @%systemroot%\system32\spoolsv.exe,-1 (Spooler) - Unknown owner - C:\Windows\System32\spoolsv.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\sppsvc.exe,-101 (sppsvc) - Unknown owner - C:\Windows\system32\sppsvc.exe (file missing)
+O23 - Service: Steam Client Service - Valve Corporation - C:\Program Files (x86)\Common Files\Steam\SteamService.exe
+O23 - Service: @%SystemRoot%\system32\ui0detect.exe,-101 (UI0Detect) - Unknown owner - C:\Windows\system32\UI0Detect.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vaultsvc.dll,-1003 (VaultSvc) - Unknown owner - C:\Windows\system32\lsass.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\vds.exe,-100 (vds) - Unknown owner - C:\Windows\System32\vds.exe (file missing)
+O23 - Service: @%systemroot%\system32\vssvc.exe,-102 (VSS) - Unknown owner - C:\Windows\system32\vssvc.exe (file missing)
+O23 - Service: @%SystemRoot%\system32\Wat\WatUX.exe,-601 (WatAdminSvc) - Unknown owner - C:\Windows\system32\Wat\WatAdminSvc.exe (file missing)
+O23 - Service: @%systemroot%\system32\wbengine.exe,-104 (wbengine) - Unknown owner - C:\Windows\system32\wbengine.exe (file missing)
+O23 - Service: @%Systemroot%\system32\wbem\wmiapsrv.exe,-110 (wmiApSrv) - Unknown owner - C:\Windows\system32\wbem\WmiApSrv.exe (file missing)
+O23 - Service: @%PROGRAMFILES%\Windows Media Player\wmpnetwk.exe,-101 (WMPNetworkSvc) - Unknown owner - C:\Program Files (x86)\Windows Media Player\wmpnetwk.exe (file missing)
+
+--
+End of file - 10563 bytes
